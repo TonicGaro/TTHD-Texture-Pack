@@ -11,4 +11,4 @@ Go to the "Utilities" tab and open the "Textures.cnt" file. It should be located
 
 Right click on the folder that contains the texture(s) you want to replace and click "Import & convert". If you want to replace textures in multiple folders just right click the root directory and import there. 
 
-Once you've saved your changes make sure to sync the texture info before you test them. "Utilities>Other" select the GAMEDATA folder when syncing.
+Once you've saved your changes make sure to sync the texture info before you start the game. "Utilities>Other" select the GAMEDATA folder when syncing.
