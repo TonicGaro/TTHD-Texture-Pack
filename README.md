@@ -1,7 +1,9 @@
 # TTHD-Textures
 An AI upscaled texture pack for Tonic Trouble (Retail).
 
-If you want to know how to use this texture pack yourself go [here](https://raymanpc.com/forum/viewtopic.php?t=74787). 
+If you want to know how to use this texture pack yourself go [here](https://raymanpc.com/forum/viewtopic.php?t=74787).
+
+Credits to XanderNT for remaking some of the textures. Credits to [RayCarrot](https://github.com/RayCarrot) also, for updating Rayman Control Panel to be compatible with this texture pack
 
 # Instructions on how to import the source textures into a Textures.cnt file:
 
