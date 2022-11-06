@@ -1,4 +1,4 @@
-# TTHD-Textures
+# TTHD-Texture-Pack
 An AI upscaled texture pack for Tonic Trouble (Retail).
 
 ![](https://github.com/TonicGaro/TTHD-Textures/blob/main/TTHD%20Logo.png)
