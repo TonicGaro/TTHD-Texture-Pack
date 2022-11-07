@@ -20,3 +20,36 @@ Once you've saved your changes make sure to sync the texture info before you sta
 # Comparison Screenshots
 Original textures:
 ![](https://github.com/TonicGaro/TTHD-Texture-Pack/blob/main/Screenshots/original1.png)
+
+HD textures:
+![](https://github.com/TonicGaro/TTHD-Texture-Pack/blob/main/Screenshots/hd1.png)
+
+Original textures:
+![](https://github.com/TonicGaro/TTHD-Texture-Pack/blob/main/Screenshots/original2.png)
+
+HD textures:
+![](https://github.com/TonicGaro/TTHD-Texture-Pack/blob/main/Screenshots/hd2.png)
+
+Original textures:
+![](https://github.com/TonicGaro/TTHD-Texture-Pack/blob/main/Screenshots/original3.png)
+
+HD textures:
+![](https://github.com/TonicGaro/TTHD-Texture-Pack/blob/main/Screenshots/hd3.png)
+
+Original textures:
+![](https://github.com/TonicGaro/TTHD-Texture-Pack/blob/main/Screenshots/original4.png)
+
+HD textures:
+![](https://github.com/TonicGaro/TTHD-Texture-Pack/blob/main/Screenshots/hd4.png)
+
+Original textures:
+![](https://github.com/TonicGaro/TTHD-Texture-Pack/blob/main/Screenshots/original5.png)
+
+HD textures:
+![](https://github.com/TonicGaro/TTHD-Texture-Pack/blob/main/Screenshots/hd5.png)
+
+Original textures:
+![](https://github.com/TonicGaro/TTHD-Texture-Pack/blob/main/Screenshots/original6.png)
+
+HD textures:
+![](https://github.com/TonicGaro/TTHD-Texture-Pack/blob/main/Screenshots/hd6.png)
