@@ -6,7 +6,7 @@ An AI upscaled texture pack for Tonic Trouble (Retail). All textures are upscale
 
 If you want to know how to use this texture pack yourself go [here](https://raymanpc.com/forum/viewtopic.php?t=74787).
 
-Credits to XanderNT for remaking some of the textures. Credits to [RayCarrot](https://github.com/RayCarrot) also, for updating Rayman Control Panel to be compatible with this texture pack. Credits to [Hipnosis183](https://www.deviantart.com/hipnosis183) on DevianArt, I got the high quality Tonic Trouble logo from them. Finally, credits to [icup321](https://github.com/icup321) for finding a lot of official high quality textures. These textures were used for better looking results in the final product. Not all the official high quality textures have been found but once they are, I'll be sure to update this texture pack.
+Credits to XanderNT for remaking some of the textures. Credits to [RayCarrot](https://github.com/RayCarrot) also, for updating Rayman Control Panel to be compatible with this texture pack. Credits to [Hipnosis183](https://www.deviantart.com/hipnosis183) on DevianArt, I got the high quality Tonic Trouble logo from them. Credits to [alweg](https://github.com/alweg) also known as Eddd, I got the Tonic Trouble Special Edition font from them. Finally, credits to [icup321](https://github.com/icup321) for finding a lot of official high quality textures. These textures were used for better looking results in the final product. Not all the official high quality textures have been found but once they are, I'll be sure to update this texture pack.
 
 ## Instructions on how to import the source textures into a Textures.cnt file:
 
