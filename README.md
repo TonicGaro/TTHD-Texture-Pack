@@ -10,6 +10,8 @@ Credits to XanderNT for remaking some of the textures. Credits to [RayCarrot](ht
 
 ## Instructions on how to import the source textures into a Textures.cnt file:
 
+(Note: All the textures in the TTHDSource folder are only for Version 2.0.1. To get the latest HD textures extract them from the latest release.)
+
 Get the latest version of [Rayman Control Panel](https://github.com/RayCarrot/RayCarrot.RCP.Metro/releases).
 
 Go to the "Utilities" tab and open the "Textures.cnt" file. It should be located in the "GAMEDATA" folder of Tonic Trouble (Retail).
